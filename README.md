@@ -198,6 +198,52 @@ Cluster Plot
 🔗 GitHub Repository:
 [https://github.com/GhadaElfeki77/Mall-Customer-Segmentation.git]
 
+
+Project 4: Wholesale Customer Segmentation
+
+Objective
+
+Cluster wholesale customers based on purchasing patterns to identify distinct customer groups and support business decision-making.
+
+Skills Demonstrated
+Data Cleaning
+EDA
+Feature Scaling
+K-Means
+Hierarchical Clustering
+DBSCAN
+PCA
+Cluster Evaluation
+Customer Profiling
+
+Workflow
+Load dataset
+Explore variables
+Handle missing values
+Scale features
+Correlation analysis
+K-Means clustering
+Elbow Method
+Silhouette Analysis
+Hierarchical clustering
+DBSCAN
+PCA
+Cluster visualization
+Cluster statistics
+Export results
+
+Visualizations
+Correlation Heatmap
+Histograms
+Boxplots
+Pairplot
+Elbow Curve
+Silhouette Score
+PCA Plot
+Cluster Scatter Plot
+Cluster Size Bar Chart
+Dendrogram
+
 📊 Portfolio Highlights
 
 ✔️ End-to-End Machine Learning Projects
